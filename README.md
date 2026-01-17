@@ -2,13 +2,24 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;MERN+%7C+WordPress+%7C+Cloud;Open+Source+Contributor;Building+Scalable+Products&center=true&width=650&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;MERN+%7C+WordPress+%7C+Cloud;Open+Source+Contributor;Building+Scalable+Products&color=FF9800&center=true&width=650&height=45">
 </div>
+
+<!-- <div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer&color=36BCF7&center=true&width=650&height=45">
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=MERN+%7C+WordPress+%7C+Cloud&color=4CAF50&center=true&width=650&height=45">
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Open+Source+Contributor&color=FF9800&center=true&width=650&height=45">
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Scalable+Products&color=AB47BC&center=true&width=650&height=45">
+</div> -->
+
 
 <table>
   <tr>
     <td width="70%" valign="middle">
-      <h2>Hello! I'm Heera Rana 👋</h2>
+      <h2>Welcome! to my Github Profile </h2>
       <p>
         I'm a passionate software engineer with a strong interest in designing
         and developing efficient, scalable applications that turn ideas into
@@ -23,9 +34,17 @@
       </p>
     </td>
     <td width="30%" align="center" style="border-radius: 20;">
+      <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhnMXpnamU5NjhnNHB1bWNyOTZ3MTBmYmlwdXl3aGxtMDc4N25vbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif" width="260" /> -->
+      <!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3I0eGt5eTFpeGNpMGR5cjlsYm02cDRwc2h6dTM5ODJuajh3NmdyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif" width="260" /> -->
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhmZDR2ejlieHZ2eml6ZXNqbXUwcDRoMG5vcXBsN2pkNTl4bnNnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="260" />
       <!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhlbTYxajVzcXl2bzJ0ZnNrdW00a2EwZzlvYzRrdG84OTBqbHJtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="260" /> -->
-      <!-- <img src="" width="260" /> -->
+      <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhnMXpnamU5NjhnNHB1bWNyOTZ3MTBmYmlwdXl3aGxtMDc4N25vbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="260" /> -->
+      <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhnMXpnamU5NjhnNHB1bWNyOTZ3MTBmYmlwdXl3aGxtMDc4N25vbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ua7vVw9awZKWwLSYpW/giphy.gif" width="260" /> -->
+      <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhnMXpnamU5NjhnNHB1bWNyOTZ3MTBmYmlwdXl3aGxtMDc4N25vbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qek0hd3NUGJPEBvvzK/giphy.gif" width="260" /> -->
+      <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhnMXpnamU5NjhnNHB1bWNyOTZ3MTBmYmlwdXl3aGxtMDc4N25vbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="260" /> -->
+      <!-- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnJ1Z240cmtvM3g3djB0NDB2cnk1eW40YzR0OWN1djUwdDh4bHFxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width="260" /> -->
+      <!-- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmFvNTd6YTBlc21uNGdyaHRxZzAzaXlqODZ4N2J4MWhyNjk2ZnQyZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uhkgRdrMSnqDBofJru/giphy.gif" width="260" /> -->
+      <!-- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXRxdzR2eGlrcnU4b2g5dzlwcDNteXdtZng5dnU3Z2l2ZWM0c3g0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="260" /> -->
     </td>
   </tr>
 </table>
@@ -34,7 +53,7 @@
 
 ## 💼 Experience
 
-#### 🌍 Open Source Contributor — **AFFiNE**
+<h3><a href="https://github.com/toeverything/AFFiNE/pull/14255">🌍 Open Source Contributor — AFFiNE</a></h3>
 🌐 Remote | 🗓 Jan 2026  
 
 - Implemented **optional document header image rendering** using existing metadata
@@ -44,6 +63,10 @@
 
 ---
 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+  
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
@@ -75,6 +98,18 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,postman" />
 </a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+  
+  ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-rouge-mu-40.vercel.app/api?username=HeeraRana247453&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-rouge-mu-40.vercel.app/api/top-langs/?username=HeeraRana247453&layout=compact&theme=tokyonight&hide_border=true)
+
+</td>
+</tr>
+</table>
 <!--
 ![Git](https://img.shields.io/badge/Git-f5f5f5?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -88,11 +123,37 @@
 
 ## 📌 Projects
 
-**🐾 Pet Consultation Platform  —  WordPress | PHP | MySQL** 
+**🐾 Pet Consultation Platform** —  WordPress | PHP | MySQL
 
-**🛒 Multi-Vendor E-Commerce  —  React | Redux | Node | MongoDB | Socket.io | Razorpay**   
+**🛒 Multi-Vendor E-Commerce**  —  React | Redux | Node | MongoDB | Socket.io | Razorpay   
 
-**🧵 ThreadNiverse  —  PHP | MySQL | Bootstrap | Cloudinary**  
+**🧵 ThreadNiverse**  —  PHP | MySQL | Bootstrap | Cloudinary 
+
+<!-- <details>
+  <summary><h3>🐾 Pet Consultation Platform</h3>  —  WordPress | PHP | MySQL</summary>
+  <ul>
+   <li>Built a WordPress-based platform enabling online vet consultations & appointments</li>
+   <li>Designed secure, responsive, and scalable workflows</li>
+  </ul>
+</details>
+<details>
+  <summary><h3>🛒 Multi-Vendor E-Commerce</h3>  —  React | Redux | Node | MongoDB | Socket.io | Razorpay</summary>
+  <ul>
+    <li>Real-time buyer–seller messaging using <b>Socket.io</b></li>
+    <li>Seller dashboards improved operational efficiency by <b>30%</b></li>
+    <li>Integrated <b>Razorpay & PayPal</b> for secure payments</li>
+    <li>Increased engagement by <b>15%</b> using targeted video modules</li>
+    <li>Used <b>Redux & Cloudinary</b> for state and media management</li>
+  </ul>
+</details>
+<details>
+  <summary><h3>🧵 ThreadNiverse</h3>  —  PHP | MySQL | Bootstrap | Cloudinary</summary>
+  <ul>
+    <li>Built a secure Q&A platform with categorized threads and real-time responses</li>
+    <li>Reduced average query resolution time by <b>60%</b></li>
+    <li>Deployed on <b>AWS</b> with <b>Cloudflare CDN</b></li>
+  </ul>
+</details> -->
 
 ---
 
@@ -110,12 +171,6 @@
 - MERN Stack — **TCIL-IT**
 - C++ Training — **IIT Bombay**
 
----
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats-rouge-mu-40.vercel.app/api/top-langs/?username=HeeraRana247453&layout=compact&theme=tokyonight&hide_border=true)
-
 <!-- <details>
   <summary>📊 GitHub Stats (click to view)</summary>
 
@@ -124,8 +179,5 @@
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HeeraRana247453&theme=tokyo-night)
 </details> -->
 
-![GitHub Contributions](https://ghchart.rshah.org/HeeraRana247453)
 
----
-
-<p align="center"><b>“Code. Contribute. Build Impact.”</b></p>
+<!-- <p align="center"><b>“Code. Contribute. Build Impact.”</b></p> -->
