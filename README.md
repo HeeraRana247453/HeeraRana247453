@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://heera-rana.vercel.app/">Heera Rana</a><img src="https://raw.githubusercontent.com/rubiin/rubiin/master/pikahello.gif" width="40px" height="40px"></h1>
+<!-- <h1 align="center">Hi, I'm <a href="https://heera-rana.vercel.app/">Heera Rana</a><img src="https://raw.githubusercontent.com/rubiin/rubiin/master/pikahello.gif" width="40px" height="40px"></h1> -->
 
 
 <div align="center">
@@ -19,7 +19,8 @@
 <table>
   <tr>
     <td width="70%" valign="middle">
-      <h2>Welcome! to my Github Profile </h2>
+      <h1 align="">Hi, I'm <a href="https://heera-rana.vercel.app/">Heera Rana</a><img src="https://raw.githubusercontent.com/rubiin/rubiin/master/pikahello.gif" width="40px" height="40px"></h1>
+      <!-- <h2>Welcome! to my Github Profile </h2> -->
       <p>
         I'm a passionate software engineer with a strong interest in designing
         and developing efficient, scalable applications that turn ideas into
