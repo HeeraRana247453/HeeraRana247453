@@ -15,14 +15,14 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+Scalable+Products&color=AB47BC&center=true&width=650&height=45">
 </div> -->
 
-
 <table>
   <tr>
     <td width="70%" valign="middle">
-      <h1 align="">Hi, I'm <a href="https://heera-rana.vercel.app/">Heera Rana</a><img src="https://raw.githubusercontent.com/rubiin/rubiin/master/pikahello.gif" width="40px" height="40px"></h1>
+<div align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhmZDR2ejlieHZ2eml6ZXNqbXUwcDRoMG5vcXBsN2pkNTl4bnNnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="260" /></div>
+      <h1 align="center">Hi, I'm <a href="https://heera-rana.vercel.app/">Heera Rana</a><img src="https://raw.githubusercontent.com/rubiin/rubiin/master/pikahello.gif" width="40px" height="40px"></h1>
       <!-- <h2>Welcome! to my Github Profile </h2> -->
       <p>
-        I'm a passionate software engineer with a strong interest in designing
+        Hello! I'm Heera Rana, a passionate software engineer with a strong interest in designing
         and developing efficient, scalable applications that turn ideas into
         real-world solutions.
       </p>
@@ -34,10 +34,10 @@
         on society.
       </p>
     </td>
-    <td width="30%" align="center" style="border-radius: 20;">
+    <!-- <td width="30%" align="center" style="border-radius: 20;"> -->
       <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhnMXpnamU5NjhnNHB1bWNyOTZ3MTBmYmlwdXl3aGxtMDc4N25vbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif" width="260" /> -->
       <!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3I0eGt5eTFpeGNpMGR5cjlsYm02cDRwc2h6dTM5ODJuajh3NmdyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif" width="260" /> -->
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhmZDR2ejlieHZ2eml6ZXNqbXUwcDRoMG5vcXBsN2pkNTl4bnNnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="260" />
+      <!-- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhmZDR2ejlieHZ2eml6ZXNqbXUwcDRoMG5vcXBsN2pkNTl4bnNnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="260" /> -->
       <!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhlbTYxajVzcXl2bzJ0ZnNrdW00a2EwZzlvYzRrdG84OTBqbHJtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="260" /> -->
       <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhnMXpnamU5NjhnNHB1bWNyOTZ3MTBmYmlwdXl3aGxtMDc4N25vbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="260" /> -->
       <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhnMXpnamU5NjhnNHB1bWNyOTZ3MTBmYmlwdXl3aGxtMDc4N25vbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ua7vVw9awZKWwLSYpW/giphy.gif" width="260" /> -->
@@ -46,7 +46,7 @@
       <!-- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnJ1Z240cmtvM3g3djB0NDB2cnk1eW40YzR0OWN1djUwdDh4bHFxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width="260" /> -->
       <!-- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmFvNTd6YTBlc21uNGdyaHRxZzAzaXlqODZ4N2J4MWhyNjk2ZnQyZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uhkgRdrMSnqDBofJru/giphy.gif" width="260" /> -->
       <!-- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXRxdzR2eGlrcnU4b2g5dzlwcDNteXdtZng5dnU3Z2l2ZWM0c3g0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="260" /> -->
-    </td>
+    <!-- </td> -->
   </tr>
 </table>
 
@@ -63,11 +63,7 @@
 - ✅ **PR merged to canary**
 
 ---
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-  
+ 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
@@ -100,17 +96,17 @@
     <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,postman" />
 </a>
 
-</td>
+---
 
-<td width="50%" align="center" valign="top">
+<div align="center" width="100%">
   
   ## 📊 GitHub Stats
+  
 ![GitHub Stats](https://github-readme-stats-rouge-mu-40.vercel.app/api?username=HeeraRana247453&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats-rouge-mu-40.vercel.app/api/top-langs/?username=HeeraRana247453&layout=compact&theme=tokyonight&hide_border=true)
 
-</td>
-</tr>
-</table>
+</div>
+
 <!--
 ![Git](https://img.shields.io/badge/Git-f5f5f5?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
