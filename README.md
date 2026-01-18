@@ -15,10 +15,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+Scalable+Products&color=AB47BC&center=true&width=650&height=45">
 </div> -->
 
-<table>
-  <tr>
-    <td width="70%" valign="middle">
+<div width="100%">
 <div align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhmZDR2ejlieHZ2eml6ZXNqbXUwcDRoMG5vcXBsN2pkNTl4bnNnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="260" /></div>
+<div>
       <h1 align="center">Hi, I'm <a href="https://heera-rana.vercel.app/">Heera Rana</a><img src="https://raw.githubusercontent.com/rubiin/rubiin/master/pikahello.gif" width="40px" height="40px"></h1>
       <!-- <h2>Welcome! to my Github Profile </h2> -->
       <p>
@@ -33,7 +32,8 @@
         meaningful products that solve real problems and make a positive impact
         on society.
       </p>
-    </td>
+</div>
+</div>
     <!-- <td width="30%" align="center" style="border-radius: 20;"> -->
       <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhnMXpnamU5NjhnNHB1bWNyOTZ3MTBmYmlwdXl3aGxtMDc4N25vbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif" width="260" /> -->
       <!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3I0eGt5eTFpeGNpMGR5cjlsYm02cDRwc2h6dTM5ODJuajh3NmdyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif" width="260" /> -->
@@ -47,8 +47,7 @@
       <!-- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmFvNTd6YTBlc21uNGdyaHRxZzAzaXlqODZ4N2J4MWhyNjk2ZnQyZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uhkgRdrMSnqDBofJru/giphy.gif" width="260" /> -->
       <!-- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXRxdzR2eGlrcnU4b2g5dzlwcDNteXdtZng5dnU3Z2l2ZWM0c3g0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="260" /> -->
     <!-- </td> -->
-  </tr>
-</table>
+ 
 
 ---
 
@@ -98,9 +97,9 @@
 
 ---
 
-<div align="center" width="100%">
-  
   ## 📊 GitHub Stats
+  
+<div align="" width="100%">
   
 ![GitHub Stats](https://github-readme-stats-rouge-mu-40.vercel.app/api?username=HeeraRana247453&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats-rouge-mu-40.vercel.app/api/top-langs/?username=HeeraRana247453&layout=compact&theme=tokyonight&hide_border=true)
