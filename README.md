@@ -18,7 +18,29 @@
 <div width="100%">
 <div align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhmZDR2ejlieHZ2eml6ZXNqbXUwcDRoMG5vcXBsN2pkNTl4bnNnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="260" /></div>
 <div>
-      <h1 align="center">Hi, I'm <a href="https://heera-rana.vercel.app/">Heera Rana</a><img src="https://raw.githubusercontent.com/rubiin/rubiin/master/pikahello.gif" width="40px" height="40px"></h1>
+      <h1 align="center">Hi, I'm <a href="https://heera-rana.vercel.app/">Heera Rana</a><img src="https://raw.githubusercontent.com/rubiin/rubiin/master/pikahello.gif" width="40px" height="40px">
+<p width="100px">
+  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
+![Node.js](https://img.shields.io/badge/Node.js-f5f5f5?style=for-the-badge&logo=node.js&logoColor=339933)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=777BB4)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![MySQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-f5f5f5?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
+![Git](https://img.shields.io/badge/Git-f5f5f5?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-f5f5f5?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=FCC624)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Postman](https://img.shields.io/badge/Postman-f5f5f5?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
+</p>
+</h1>
       <!-- <h2>Welcome! to my Github Profile </h2> -->
       <p>
         Hello! I'm Heera Rana, a passionate software engineer with a strong interest in designing
