@@ -22,26 +22,23 @@
       <h1 align="center">Hi, I'm <a href="https://heera-rana.vercel.app/">Heera Rana</a><img src="https://raw.githubusercontent.com/rubiin/rubiin/master/pikahello.gif" width="40px" height="40px">
 <p align="center">
   
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat)
-![Node.js](https://img.shields.io/badge/Node.js-f5f5f5?style=flat&logo=node.js&logoColor=339933)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
-![PHP](https://img.shields.io/badge/PHP-20232A?style=flat&logo=php&logoColor=777BB4)
-![MySQL](https://img.shields.io/badge/MySQL-003B57?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-f5f5f5?style=flat&logo=mongodb&logoColor=4EA94B)
-
-![Git](https://img.shields.io/badge/Git-f5f5f5?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/Docker-f5f5f5?style=flat&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-181717?style=flat&logo=linux&logoColor=FCC624)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
-![Postman](https://img.shields.io/badge/Postman-f5f5f5?style=flat&logo=postman&logoColor=FF6C37)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress)
-
+![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=plastic&logo=redux)
+![Express](https://img.shields.io/badge/Express.js-000000?style=plastic)
+![Node.js](https://img.shields.io/badge/Node.js-f5f5f5?style=plastic&logo=node.js&logoColor=339933)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-f5f5f5?style=plastic&logo=mongodb&logoColor=4EA94B)
+![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus)
+![PHP](https://img.shields.io/badge/PHP-20232A?style=plastic&logo=php&logoColor=777BB4)
+![MySQL](https://img.shields.io/badge/MySQL-003B57?style=plastic&logo=mysql)
+![Git](https://img.shields.io/badge/Git-f5f5f5?style=plastic&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github)
+![Docker](https://img.shields.io/badge/Docker-f5f5f5?style=plastic&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-181717?style=plastic&logo=linux&logoColor=FCC624)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws)
+![Postman](https://img.shields.io/badge/Postman-f5f5f5?style=plastic&logo=postman&logoColor=FF6C37)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=plastic&logo=wordpress)
 </p>
 </h1>
       <!-- <h2>Welcome! to my Github Profile </h2> -->
